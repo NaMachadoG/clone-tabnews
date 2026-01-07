@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Você é meu lar :heart:</h1>
+    return <h1>Você é meu lar 🥰</h1>
 }
 
 export default Home;
